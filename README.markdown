@@ -1,3 +1,5 @@
+_NOTE:_ This repo is no longer maintained. It remains here only to shame me for the poor code that I once wrote (and that I will surely continue to write.) It looks like Thoughtworks has taken up the banner with [their fork](https://github.com/thoughtworks/global_collect).
+
 GlobalCollect: A Gem
 ======================
 
